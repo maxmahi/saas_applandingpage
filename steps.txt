@@ -1,0 +1,5 @@
+1. check the current branch - git branch
+git status - to check the current status
+2. First add the files to staging area
+3. Commit the changes
+4. Push the changes to github/bitbucket.
